@@ -37,14 +37,14 @@ module.exports={
         "docs": {
           "showLastUpdateAuthor": true,
           "showLastUpdateTime": true,
-          "editUrl": "https://github.com/Nanopublication/nanopub-website/edit/master/website/",
+          "editUrl": "https://github.com/vemonet/nanopub-website/edit/master/website/",
           "path": "./docs",
           "breadcrumbs": false,
           "sidebarPath": require.resolve('./sidebars.json')
         },
-        "blog": {
-          "path": "blog"
-        },
+        // "blog": {
+        //   "path": "blog"
+        // },
         "theme": {
           "customCss": "./src/css/customTheme.css"
         }
@@ -104,7 +104,7 @@ module.exports={
           "position": "left"
         },
         {
-          "href": "https://github.com/Nanopublication/nanopub-website",
+          "href": "https://github.com/vemonet/nanopub-website",
           // "label": "GitHub",
           "position": "right",
           "className": 'header-github-link'

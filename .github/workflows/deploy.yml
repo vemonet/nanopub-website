@@ -5,6 +5,10 @@ on:
   push:
     branches:
       - main
+  # Uncomment this if you want to run weekly to update the Guidelines published
+  # schedule:
+  #   # Every Sunday at 01:00
+  #   - cron:  '0 1 * * 0'
 
 jobs:
   deploy:
@@ -23,16 +27,17 @@ jobs:
           cd website
           yarn install --frozen-lockfile
 
-      - name: Clone Nanopub Guidelines in static folder
-        run: |
-          cd website/static
-          git clone https://github.com/Nanopublication/Guidelines.git
-          cp Guidelines/nschema.ttl .
-
       - name: Build website
         run: |
           cd website
           yarn build
+
+      - name: Clone Nanopub Guidelines in built folder
+        run: |
+          cd website/build
+          git clone https://github.com/Nanopublication/Guidelines.git
+          rm -rf Guidelines/.git
+          cp Guidelines/nschema.ttl .
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus

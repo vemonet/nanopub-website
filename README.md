@@ -1,6 +1,8 @@
-[![Build](https://github.com/MaastrichtU-IDS/dsri-documentation/workflows/Publish%20to%20GitHub%20Pages/badge.svg)](https://github.com/MaastrichtU-IDS/dsri-documentation/actions?query=workflow%3A%22Publish+to+GitHub+Pages%22) [![Slack](https://img.shields.io/badge/Chat%20on-Slack-blueviolet)](https://dsri.slack.com)
+[![Deploy to GitHub Pages](https://github.com/vemonet/nanopub-website/actions/workflows/deploy.yml/badge.svg)](https://github.com/vemonet/nanopub-website/actions/workflows/deploy.yml)
 
-The documentation website at [nanopub.org](https://nanopub.org) is automatically updated by a [GitHub Action](/actions) at each push to this `main` branch.
+Code of the home website for the Nanopublication ecosystem hosted at [nanopub.org](https://nanopub.org)
+
+The website is automatically updated by a [GitHub Action](/actions) at each push to this repository `main` branch.
 
 ## Contribute
 
@@ -8,7 +10,7 @@ Contributions are welcome! See the [guidelines to contribute 👨‍💻](https:
 
 ## Edit documentation pages
 
-Editing a documentation file is as easy as going to https://github.com/MaastrichtU-IDS/dsri-documentation/edit/master/website/docs/introduction.md
+Editing a documentation file is as easy as going to https://github.com/vemonet/nanopub-website/edit/main/website/docs/users.md
 
 * Edit a page by login with an account that has edit permissions.
 
@@ -19,17 +21,9 @@ Editing a documentation file is as easy as going to https://github.com/Maastrich
 ### Files locations
 
 - Most website pages are in `website/src/pages` and `website/docs`
-- Add new `docs` pages links to the sidebar: [website/sidebars.json](https://github.com/MaastrichtU-IDS/d2s-docs/blob/master/website/sidebars.json).
-- Main parameters of the website can be found in [website/docusaurus.config.js](https://github.com/MaastrichtU-IDS/d2s-docs/blob/master/website/docusaurus.config.js).
-- Static content (any resource to download, images, css, js) can be provided in [website/static](https://github.com/MaastrichtU-IDS/d2s-docs/tree/master/website/static)
-
-### Add an announcement
-
-You can easily add a general announcement bar on the website if you want to pass some information to your users, like dates of maintenance
-
-Open the file `website/docusaurus.config.js` and update the `announcementBar` variable.
-
-You can comment the `announcementBar` code block when you want to remove the announcement bar.
+- Add new `docs` pages links to the sidebar: `website/sidebars.json`.
+- Main parameters of the website can be found in `website/docusaurus.config.js`.
+- Static content (any resource to download, images, css, js) can be provided in `website/static`
 
 ## Run for development
 
@@ -43,17 +37,19 @@ yarn dev
 
 ## Deploy in production
 
-### Deploy the frontend to GitHub pages
-
-The documentation website at [dsri.maastrichtuniversity.nl](https://dsri.maastrichtuniversity.nl/) is automatically updated by a [GitHub Action](https://github.com/MaastrichtU-IDS/dsri-documentation/blob/master/actions) at each push to the `master` branch of this repository.
-
-Make sure the `/website/build` directory has been generated before deploying.
-
-```shell
-yarn deploy
-```
+The website is automatically published to GitHub Pages by a [GitHub Action](https://github.com/vemonet/nanopub-website/blob/main/actions) at each push to the `main` branch of this repository.
 
 ## Markdown tips
+
+### Add an announcement top bar
+
+You can easily add a general announcement bar on the website if you want to pass some information to your users, like dates of maintenance
+
+Open the file `website/docusaurus.config.js` and update the `announcementBar` variable.
+
+You can comment the `announcementBar` code block when you want to remove the announcement bar.
+
+### Info boxes
 
 ```markdown
 :::note
