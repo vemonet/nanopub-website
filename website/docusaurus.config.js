@@ -1,0 +1,137 @@
+module.exports={
+  "title": "Nanopublications",
+  "tagline": "FAIR data containers for scientific results, and more",
+  "url": "https://vemonet.github.io/",
+  "baseUrl": "/nanopub-website/",
+  "organizationName": "vemonet",
+  // "url": "https://nanopub.org/",
+  // "baseUrl": "/",
+  // "organizationName": "Nanopublication",
+  "projectName": "nanopub-website",
+  // trailingSlash: false,
+  "scripts": [
+    "https://buttons.github.io/buttons.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js",
+    "/js/code-blocks-buttons.js"
+  ],
+  "stylesheets": [
+    "https://fonts.googleapis.com/css?family=Roboto:200,300,400,400i,500,600,700",
+    "/css/code-blocks-buttons.css"
+  ],
+  "favicon": "img/icon.png",
+  "customFields": {
+    "repoUrl": "https://github.com/vemonet/nanopub-website",
+    "markdownPlugins": [
+      null,
+      null,
+      null
+    ],
+    "gaGtag": false
+  },
+  "onBrokenLinks": "log",
+  "onBrokenMarkdownLinks": "log",
+  "presets": [
+    [
+      "@docusaurus/preset-classic",
+      {
+        "docs": {
+          "showLastUpdateAuthor": true,
+          "showLastUpdateTime": true,
+          "editUrl": "https://github.com/Nanopublication/nanopub-website/edit/master/website/",
+          "path": "./docs",
+          "breadcrumbs": false,
+          "sidebarPath": require.resolve('./sidebars.json')
+        },
+        "blog": {
+          "path": "blog"
+        },
+        "theme": {
+          "customCss": "./src/css/customTheme.css"
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        language: ["en"],
+      },
+    ],
+    require.resolve('docusaurus-plugin-image-zoom'),
+    // [
+    //   "docusaurus2-dotenv",
+    //   {
+    //     systemvars: true,
+    //   },
+    // ],
+  ],
+  "themeConfig": {
+    docs: {
+      sidebar: {
+        hideable: true,
+      }
+    },
+    //announcementBar: {
+    //  id: 'support_us',
+    //  content:
+    //    '🔨 <b>Maintenance</b> will be performed on the DSRI <b>from the 22 to the 30 of October</b>, please make sure your data is backed up outside the DSRI before this date 🔨',
+    //  backgroundColor: '#fdd835',
+      // textColor: '#091E42',
+      // isCloseable: false,
+    //},
+    "prism": {
+      "additionalLanguages": ['powershell'],
+      // "additionalLanguages": ['powershell', 'dockerfile'],
+    },
+    "navbar": {
+      "hideOnScroll": false,
+      "title": "Nanopublications",
+      "logo": {
+        "src": "img/icon.png"
+      },
+      "items": [
+        {
+          "to": "docs/",
+          "label": "Documentation",
+          "position": "left"
+        },
+        {
+          "to": "/contact",
+          "label": "Contact",
+          "position": "left"
+        },
+        {
+          "href": "https://github.com/Nanopublication/nanopub-website",
+          // "label": "GitHub",
+          "position": "right",
+          "className": 'header-github-link'
+        }
+      ]
+    },
+    "image": "img/undraw_online.svg",
+    "footer": {
+      "links": [],
+      "copyright": "Copyright © 2022 Nanopublications",
+      "logo": {
+        "src": "img/favicon.ico",
+        "href": "https://maastrichtuniversity.nl/"
+      }
+    },
+    zoom: {
+      selector: '.markdown > img',
+      config: {
+        // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+        background: {
+          light: 'rgb(255, 255, 255)',
+          dark: 'rgb(50, 50, 50)'
+        }
+      }
+    },
+    // "gtag": {
+    //   "trackingID": "UA-172146359-1"
+    // }
+  }
+}

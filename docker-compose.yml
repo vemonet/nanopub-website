@@ -1,0 +1,14 @@
+version: "3"
+
+services:
+
+  # Start the website in development
+  dev:
+    build:
+      context: website
+      target: build
+    ports:
+      - 3000:3000
+    volumes:
+      - ./website:/app
+    command: yarn dev
