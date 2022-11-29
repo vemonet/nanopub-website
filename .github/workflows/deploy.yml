@@ -20,24 +20,25 @@ jobs:
         with:
           node-version: 18
           cache: yarn
-          cache-dependency-path: website/yarn.lock
+          cache-dependency-path: yarn.lock
 
       - name: Install dependencies
         run: |
-          cd website
           yarn install --frozen-lockfile
 
       - name: Build website
         run: |
-          cd website
           yarn build
 
       - name: Clone Nanopub Guidelines in built folder
         run: |
-          cd website/build
+          cd build
           git clone https://github.com/Nanopublication/Guidelines.git
           rm -rf Guidelines/.git
-          cp Guidelines/nschema.ttl .
+          cp Guidelines/nschema.ttl nschema
+          mkdir guidelines
+          mv Guidelines guidelines/working_draft
+
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
@@ -46,7 +47,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # Build output to publish to the `gh-pages` branch:
-          publish_dir: ./website/build
+          publish_dir: ./build
           # The following lines assign commit authorship to the official
           # GH-Actions bot for deploys to `gh-pages` branch:
           # https://github.com/actions/checkout/issues/13#issuecomment-724415212

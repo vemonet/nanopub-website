@@ -5,10 +5,10 @@ services:
   # Start the website in development
   dev:
     build:
-      context: website
+      context: .
       target: build
     ports:
       - 3000:3000
     volumes:
-      - ./website:/app
+      - ./:/app
     command: yarn dev

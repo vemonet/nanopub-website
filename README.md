@@ -1,14 +1,16 @@
+# Nanopublication website
+
 [![Deploy to GitHub Pages](https://github.com/vemonet/nanopub-website/actions/workflows/deploy.yml/badge.svg)](https://github.com/vemonet/nanopub-website/actions/workflows/deploy.yml)
 
-Code of the home website for the Nanopublication ecosystem hosted at [nanopub.org](https://nanopub.org)
+Code for the home website presenting the Nanopublication ecosystem, hosted at [nanopub.org](https://nanopub.org).
 
 The website is automatically updated by a [GitHub Action](/actions) at each push to this repository `main` branch.
 
-## Contribute
+## ✍️ Contribute
 
-Contributions are welcome! See the [guidelines to contribute 👨‍💻](https://dsri.maastrichtuniversity.nl/contributing).
+Contributions are welcome!
 
-## Edit documentation pages
+### 📝 Edit documentation pages
 
 Editing a documentation file is as easy as going to https://github.com/vemonet/nanopub-website/edit/main/website/docs/users.md
 
@@ -16,16 +18,18 @@ Editing a documentation file is as easy as going to https://github.com/vemonet/n
 
 * Otherwise fork the repository and modify the files you want. Pull requests are welcome!
 
+Otherwise you can clone the repository, work locally and commit your changes
+
 > We recommend using [Typora](https://typora.io/) to edit [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) files on your computer.
 
-### Files locations
+### 📂 Files locations
 
 - Most website pages are in `website/src/pages` and `website/docs`
 - Add new `docs` pages links to the sidebar: `website/sidebars.json`.
 - Main parameters of the website can be found in `website/docusaurus.config.js`.
 - Static content (any resource to download, images, css, js) can be provided in `website/static`
 
-## Run for development
+## 🧑‍💻 Deploy locally
 
 Go to the `/website` directory and start the website on http://localhost:19006, it will be reloaded automatically when you make changes to the code:
 
@@ -35,11 +39,11 @@ yarn
 yarn dev
 ```
 
-## Deploy in production
+## 🚀 Deploy in production
 
 The website is automatically published to GitHub Pages by a [GitHub Action](https://github.com/vemonet/nanopub-website/blob/main/actions) at each push to the `main` branch of this repository.
 
-## Markdown tips
+## ✒️ Markdown tips
 
 ### Add an announcement top bar
 
@@ -89,6 +93,6 @@ Embed a Google docs presentation (size does not change dynamically). You can che
 </script>
 ```
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 Documentation website generated using [Docusaurus](https://docusaurus.io/).

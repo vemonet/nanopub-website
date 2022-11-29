@@ -1,31 +1,5 @@
-data/
-backup/
-.env
-
-.DS_Store
-
-node_modules
-
-lib/core/metadata.js
-lib/core/MetadataBlog.js
-
-website/translated_docs
-website/build/
-# website/yarn.lock
-website/node_modules
-website/i18n/*
-website/package-lock.json
-v3-website/translated_docs
-v3-website/build/
-v3-website/yarn.lock
-v3-website/node_modules
-v3-website/i18n/*
-v3-website/package-lock.json
-
-# Docusaurus v2:
-/node_modules
-
 # production
+node_modules
 build
 
 # generated files
@@ -34,6 +8,7 @@ build
 
 # misc
 .DS_Store
+.env
 .env.local
 .env.development.local
 .env.test.local

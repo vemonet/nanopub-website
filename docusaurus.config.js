@@ -10,13 +10,10 @@ module.exports={
   "projectName": "nanopub-website",
   // trailingSlash: false,
   "scripts": [
-    "https://buttons.github.io/buttons.js",
-    "https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js",
-    "/js/code-blocks-buttons.js"
+    // "https://buttons.github.io/buttons.js",
   ],
   "stylesheets": [
     "https://fonts.googleapis.com/css?family=Roboto:200,300,400,400i,500,600,700",
-    "/css/code-blocks-buttons.css"
   ],
   "favicon": "img/icon.png",
   "customFields": {
@@ -37,7 +34,7 @@ module.exports={
         "docs": {
           "showLastUpdateAuthor": true,
           "showLastUpdateTime": true,
-          "editUrl": "https://github.com/vemonet/nanopub-website/edit/master/website/",
+          "editUrl": "https://github.com/vemonet/nanopub-website/edit/main/website/",
           "path": "./docs",
           "breadcrumbs": false,
           "sidebarPath": require.resolve('./sidebars.json')
@@ -51,6 +48,7 @@ module.exports={
       }
     ]
   ],
+
   "plugins": [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
@@ -82,10 +80,9 @@ module.exports={
       // textColor: '#091E42',
       // isCloseable: false,
     //},
-    "prism": {
-      "additionalLanguages": ['powershell'],
-      // "additionalLanguages": ['powershell', 'dockerfile'],
-    },
+    // "prism": {
+    //   "additionalLanguages": ['powershell','dockerfile'],
+    // },
     "navbar": {
       "hideOnScroll": false,
       "title": "Nanopublications",
