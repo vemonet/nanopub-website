@@ -4,7 +4,7 @@
   "private": true,
   "author": "Tobias Kuhn",
   "license": "CC-BY-4.0",
-  "homepage": "https://vemonet.github.io/nanopub-website",
+  "homepage": "https://nanopub.net",
   "scripts": {
     "docusaurus": "docusaurus",
     "dev": "docusaurus start",
