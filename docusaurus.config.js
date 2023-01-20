@@ -2,9 +2,9 @@ module.exports={
   "title": "Nanopublications",
   "tagline": "FAIR data containers for scientific results, and more",
   "url": "https://nanopub.net/",
+  "baseUrl": "/",
   "organizationName": "Nanopublication",
   "projectName": "nanopub-website",
-  // "baseUrl": "/nanopub-website/",
   // trailingSlash: false,
   "stylesheets": [
     "https://fonts.googleapis.com/css?family=Roboto:200,300,400,400i,500,600,700",
