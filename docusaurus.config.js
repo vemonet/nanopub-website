@@ -1,17 +1,11 @@
 module.exports={
   "title": "Nanopublications",
   "tagline": "FAIR data containers for scientific results, and more",
-  "url": "https://vemonet.github.io/",
-  "baseUrl": "/nanopub-website/",
-  "organizationName": "vemonet",
-  // "url": "https://nanopub.org/",
-  // "baseUrl": "/",
-  // "organizationName": "Nanopublication",
+  "url": "https://nanopub.net/",
+  "organizationName": "Nanopublication",
   "projectName": "nanopub-website",
+  // "baseUrl": "/nanopub-website/",
   // trailingSlash: false,
-  "scripts": [
-    // "https://buttons.github.io/buttons.js",
-  ],
   "stylesheets": [
     "https://fonts.googleapis.com/css?family=Roboto:200,300,400,400i,500,600,700",
   ],
