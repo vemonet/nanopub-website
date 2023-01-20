@@ -1,6 +1,6 @@
 # Nanopublication website
 
-[![Deploy to GitHub Pages](https://github.com/vemonet/nanopub-website/actions/workflows/deploy.yml/badge.svg)](https://github.com/vemonet/nanopub-website/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/Nanopublication/nanopub-website/actions/workflows/deploy.yml/badge.svg)](https://github.com/Nanopublication/nanopub-website/actions/workflows/deploy.yml)
 
 Code for the home website presenting the Nanopublication ecosystem, hosted at [nanopub.org](https://nanopub.org).
 
@@ -12,7 +12,7 @@ Contributions are welcome!
 
 ### 📝 Edit documentation pages
 
-Editing a documentation file is as easy as going to https://github.com/vemonet/nanopub-website/edit/main/website/docs/users.md
+Editing a documentation file is as easy as going to https://github.com/Nanopublication/nanopub-website/edit/main/website/docs/users.md
 
 * Edit a page by login with an account that has edit permissions.
 
@@ -41,7 +41,7 @@ yarn dev
 
 ## 🚀 Deploy in production
 
-The website is automatically published to GitHub Pages by a [GitHub Action](https://github.com/vemonet/nanopub-website/blob/main/actions) at each push to the `main` branch of this repository.
+The website is automatically published to GitHub Pages by a [GitHub Action](https://github.com/Nanopublication/nanopub-website/blob/main/actions) at each push to the `main` branch of this repository.
 
 ## ✒️ Markdown tips
 

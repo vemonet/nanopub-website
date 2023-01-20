@@ -12,12 +12,12 @@ For comments and contributions about those guidelines, please join us at [Github
 
 :::info Examples
 
-For examples of the implementation of these guidelines take a look at the [Examples page](/nanopub-website/docs/examples).
+For examples of the implementation of these guidelines take a look at the [Examples page](/docs/examples).
 
 :::
 
 :::note Tools
 
-To create and process nanopublications, have a look at the [available tools](/nanopub-website/docs/tools).
+To create and process nanopublications, have a look at the [available tools](/docs/tools).
 
 :::
