@@ -33,9 +33,15 @@ Otherwise you can clone the repository, work locally and commit your changes
 
 Go to the `/website` directory and start the website on http://localhost:19006, it will be reloaded automatically when you make changes to the code:
 
+1. Install dependencies:
+
 ```shell
-cd website
 yarn
+```
+
+2. Deploy in development on http://localhost:3000:
+
+```shell
 yarn dev
 ```
 
