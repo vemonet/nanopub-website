@@ -12,42 +12,58 @@ Contributions are welcome!
 
 ### 📝 Edit documentation pages
 
-Editing a documentation file is as easy as going to https://github.com/Nanopublication/nanopub-website/edit/main/website/docs/users.md
+Editing a documentation file is as easy as going to the markdown file for the page on GitHub: https://github.com/Nanopublication/nanopub-website/blob/main/docs/tools.md
 
 * Edit a page by login with an account that has edit permissions.
 
 * Otherwise fork the repository and modify the files you want. Pull requests are welcome!
 
-Otherwise you can clone the repository, work locally and commit your changes
+If you are making substential changes we recommend you to clone the repository, and work locally (cf. below)
 
 > We recommend using [Typora](https://typora.io/) to edit [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) files on your computer.
 
 ### 📂 Files locations
 
-- Most website pages are in `website/src/pages` and `website/docs`
-- Add new `docs` pages links to the sidebar: `website/sidebars.json`.
-- Main parameters of the website can be found in `website/docusaurus.config.js`.
-- Static content (any resource to download, images, css, js) can be provided in `website/static`
+To edit the website content and configuration:
+
+- Most website pages are markdown files in `src/pages/` and `docs/`
+- New pages links can be easily added to the sidebar in `sidebars.json`
+- The main parameters of the website can be found in `docusaurus.config.js`
+- Static content, such as images, css, js or files to download, can be added in `static/`
+- The main theme color can be changed in `src/css/customTheme.css`, we recommend to use [this tool to generate the color palette](https://docusaurus.io/docs/styling-layout#styling-your-site-with-infima).
 
 ## 🧑‍💻 Deploy locally
 
-Go to the `/website` directory and start the website on http://localhost:19006, it will be reloaded automatically when you make changes to the code:
+<details><summary>Install <code>nodejs >=18</code>, and <code>yarn</code> if not already done</summary>
 
-1. Install dependencies:
+* [Instructions to install `npm` and `NodeJS`](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+* [Instructions to install `yarn`](https://yarnpkg.com/getting-started/install)
+</details>
 
-```shell
-yarn
-```
+To deploy the website locally and see your changes, go to your computer terminal, and:
 
-2. Deploy in development on http://localhost:3000:
+1. Clone the repository:
 
-```shell
-yarn dev
-```
+   ```bash
+   git clone https://github.com/Nanopublication/nanopub-website
+   cd nanopub-website
+   ```
+
+2. Install the dependencies:
+
+    ```shell
+    yarn
+    ```
+
+3. Deploy the website on http://localhost:3000, it will reload automatically when you make changes to the code and markdown files:
+
+    ```shell
+    yarn dev
+    ```
 
 ## 🚀 Deploy in production
 
-The website is automatically published to GitHub Pages by a [GitHub Action](https://github.com/Nanopublication/nanopub-website/blob/main/actions) at each push to the `main` branch of this repository.
+The website is available at https://nanopub.net, it is automatically updated and published to GitHub Pages by a [GitHub Action](https://github.com/Nanopublication/nanopub-website/blob/main/actions) at each push to the `main` branch of this repository.
 
 ## ✒️ Markdown tips
 
@@ -55,11 +71,13 @@ The website is automatically published to GitHub Pages by a [GitHub Action](http
 
 You can easily add a general announcement bar on the website if you want to pass some information to your users, like dates of maintenance
 
-Open the file `website/docusaurus.config.js` and update the `announcementBar` variable.
+Open the file `docusaurus.config.js` and update the `announcementBar` variable.
 
 You can comment the `announcementBar` code block when you want to remove the announcement bar.
 
 ### Info boxes
+
+Colored box to highlight informations:
 
 ```markdown
 :::note
@@ -79,26 +97,6 @@ Red box
 :::
 ```
 
-Embed a Google docs presentation (size does not change dynamically). You can check the ["documentation" by gitlab](https://about.gitlab.com/handbook/markdown-guide/#google-slides) but it does not work (how can they expect to get a responsive website by providing hardcoded pixel size?):
-
-```html
-<figure class="video_container">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRAfZdOfGt761tIAj2e35OYrOL4uIKWiAQB15MXvsqso3XJ5Mr3-W4dOa9KjDTZpi1LE_D2CU1F5Thy/embed?start=false&loop=false&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
-
-# With CSS:
-<script>
-.video-container{
-  position: absolute;
-  top: 0%;
-  left: 0%;
-  height: 100%;
-  width: 100%;
-  /* overflow: hidden; */
-}
-</script>
-```
-
 ## 🙏 Acknowledgments
 
-Documentation website generated using [Docusaurus](https://docusaurus.io/).
+Documentation website built with [Docusaurus](https://docusaurus.io/).
