@@ -2,7 +2,7 @@
 
 [![Deploy to GitHub Pages](https://github.com/Nanopublication/nanopub-website/actions/workflows/deploy.yml/badge.svg)](https://github.com/Nanopublication/nanopub-website/actions/workflows/deploy.yml)
 
-Code for the home website presenting the Nanopublication ecosystem, hosted at [nanopub.org](https://nanopub.org).
+Code for the website presenting the Nanopublication ecosystem, hosted at [nanopub.net](https://nanopub.net).
 
 The website is automatically updated by a [GitHub Action](/actions) at each push to this repository `main` branch.
 
@@ -18,9 +18,9 @@ Editing a documentation file is as easy as going to the markdown file for the pa
 
 * Otherwise fork the repository and modify the files you want. Pull requests are welcome!
 
-If you are making substential changes we recommend you to clone the repository, and work locally (cf. below)
+If you are making substential changes we recommend you to clone the repository, and work locally (cf. below *Deployment* section to)
 
-> We recommend using [Typora](https://typora.io/) to edit [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) files on your computer.
+> We recommend using [Typora](https://typora.io/) to edit [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) files easily on your computer.
 
 ### 📂 Files locations
 
@@ -32,7 +32,16 @@ To edit the website content and configuration:
 - Static content, such as images, css, js or files to download, can be added in `static/`
 - The main theme color can be changed in `src/css/customTheme.css`, we recommend to use [this tool to generate the color palette](https://docusaurus.io/docs/styling-layout#styling-your-site-with-infima).
 
-## 🧑‍💻 Deploy locally
+## 🧑‍💻 Deployment
+
+To deploy the website locally and see your changes, go to your computer terminal, and clone the repository:
+
+```bash
+git clone https://github.com/Nanopublication/nanopub-website
+cd nanopub-website
+```
+
+### 🧶 Deploy with yarn
 
 <details><summary>Install <code>nodejs >=18</code>, and <code>yarn</code> if not already done</summary>
 
@@ -40,28 +49,29 @@ To edit the website content and configuration:
 * [Instructions to install `yarn`](https://yarnpkg.com/getting-started/install)
 </details>
 
-To deploy the website locally and see your changes, go to your computer terminal, and:
+To deploy the website locally with `yarn` and see your changes:
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Nanopublication/nanopub-website
-   cd nanopub-website
-   ```
-
-2. Install the dependencies:
+1. Install the dependencies:
 
     ```shell
     yarn
     ```
 
-3. Deploy the website on http://localhost:3000, it will reload automatically when you make changes to the code and markdown files:
+2. Deploy the website on http://localhost:3000, it will reload automatically when you make changes to the code and markdown files:
 
     ```shell
     yarn dev
     ```
 
-## 🚀 Deploy in production
+### 🐳 Deploy with docker
+
+Alternatively you can deploy the website locally with docker and docker-compose (make sure they are installed):
+
+```bash
+docker-compose up
+```
+
+### 🚀 Deploy in production
 
 The website is available at https://nanopub.net, it is automatically updated and published to GitHub Pages by a [GitHub Action](https://github.com/Nanopublication/nanopub-website/blob/main/actions) at each push to the `main` branch of this repository.
 

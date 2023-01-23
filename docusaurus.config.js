@@ -33,9 +33,6 @@ module.exports={
           "breadcrumbs": false,
           "sidebarPath": require.resolve('./sidebars.json')
         },
-        // "blog": {
-        //   "path": "blog"
-        // },
         "theme": {
           "customCss": "./src/css/customTheme.css"
         }
