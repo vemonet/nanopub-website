@@ -87,8 +87,8 @@ module.exports={
           "position": "left"
         },
         {
-          "to": "docs/",
-          "label": "Sessions",
+          "to": "/sessions",
+          "label": "Nano Sessions",
           "position": "left"
         },
         {
