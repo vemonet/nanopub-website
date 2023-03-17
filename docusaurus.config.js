@@ -87,6 +87,11 @@ module.exports={
           "position": "left"
         },
         {
+          "to": "docs/",
+          "label": "Sessions",
+          "position": "left"
+        },
+        {
           "to": "/contact",
           "label": "Contact",
           "position": "left"
