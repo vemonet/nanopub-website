@@ -1,6 +1,6 @@
 # Nano Sessions
 
-The Nano Sessions connect the people who are interested in nanopublications and who want to learn from each other about the related technologies. Every session has two talks, discussion and a news sharing part. Knowledge Pixels hosts the first meetings, but we are happy to let others join and become hosts too. For more information on the Nano Sessions see [the notes](https://docs.google.com/document/d/1-0aImR4bFHmay8j6bSFgIDi9sw01KXdmYw9szyhAWmY/edit#). 
+The Nano Sessions connect the people who are interested in nanopublications and who want to learn from each other about the related technologies. Every session has two talks, discussion and a news sharing part. [Knowledge Pixels](https://knowledgepixels.com/) hosts the first meetings, but we are happy to let others join and become hosts too. For more information on the Nano Sessions see [the notes](https://docs.google.com/document/d/1-0aImR4bFHmay8j6bSFgIDi9sw01KXdmYw9szyhAWmY/edit#). 
 Do you have someone in mind that could be interested in nanopublications? The meetings are open to everyone and invitations are sent out via [our mailing list](https://groups.google.com/g/nanopub-users/).
 
 All sessions are in [this Zoom channel](https://vu-live.zoom.us/j/97176002956?pwd=UHh5MGJWNHpEcFZKbTA0Kzcrc29TQT09). Anyone can join without registration.
