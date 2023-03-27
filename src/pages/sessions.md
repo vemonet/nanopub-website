@@ -7,7 +7,7 @@ All sessions are in [this Zoom channel](https://vu-live.zoom.us/j/97176002956?pw
 
 ## Nano Session #2
 
-_28 March 2023, 16:00 CET_
+_28 March 2023, 16:00 CEST_
 
 Speakers:
 
