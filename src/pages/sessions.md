@@ -11,7 +11,7 @@ _28 March 2023, 16:00 CEST_
 
 Speakers:
 
-- [Gianmaria Silvello](http://www.dei.unipd.it/~silvello/) on "Creating nanopubs from manual and automatic annotations of biomedical facts"
+- [Gianmaria Silvello](http://www.dei.unipd.it/~silvello/) on "Annotations of biomedical facts: Semi-Automatic Nanopubs and Knowledge Provenance"
 - [Jorrit Poelen](https://jhpoelen.nl) on "How Big is that Bee?"
 
 ## Nano Session #1
