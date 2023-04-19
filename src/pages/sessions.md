@@ -20,6 +20,7 @@ _16 Mai 2023, 16:00 CEST_
 Speakers:
 
 - [Stefano Marchesin](http://www.dei.unipd.it/~marches1/) on "Annotated Data Doesn't Grow on Trees, but Nanopublications Do: Exploiting Nanopublications to Train Relation Extraction Models for Gene-Disease Associations."
+- (Second speaker tba)
 
 ## Nano Session #3
 
