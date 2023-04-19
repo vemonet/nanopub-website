@@ -11,7 +11,15 @@ Important Links:
 - We use these [notes](https://docs.google.com/document/d/1_vL-hxsHGcy85g7EIUdLesztXFofQ9QW4VdZG3K5J8g/edit#) during the sessions and for the record.
 - The meetings are open to everyone and invitations are sent out via our [mailing list](https://groups.google.com/g/nanopub-users/).
 
-Upcoming sessions: 18 April, 16 Mai, 13 June, 11 July. Summer break afterwards.
+Upcoming sessions: 16 Mai, 13 June, 11 July. Summer break afterwards.
+
+## Nano Session #4
+
+_16 Mai 2023, 16:00 CEST_
+
+Speakers:
+
+- [Stefano Marchesin](http://www.dei.unipd.it/~marches1/) on "Annotated Data Doesn't Grow on Trees, but Nanopublications Do: Exploiting Nanopublications to Train Relation Extraction Models for Gene-Disease Associations."
 
 ## Nano Session #3
 
