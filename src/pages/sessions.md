@@ -22,7 +22,7 @@ _16 Mai 2023, 16:00 CEST_
 
 Speakers:
 
-- [Stefano Marchesin](http://www.dei.unipd.it/~marches1/) on "Annotated Data Doesn't Grow on Trees, but Nanopublications Do: Exploiting Nanopublications to Train Relation Extraction Models for Gene-Disease Associations."
+- [Stefano Marchesin](http://www.dei.unipd.it/~marches1/) on "Annotated Data Doesn't Grow on Trees, but Nanopublications Do: Exploiting Nanopublications to Train Relation Extraction Models for Gene-Disease Associations"
 - [Barbara Magagna](https://partnersinfair.com/who-we-are/) on "The Value of Nanopubs for Representing FAIR Enabling Resources"
 
 ## Nano Session #3
@@ -31,8 +31,8 @@ _18 April 2023, 16:00 CEST_
 
 Speakers:
 
-- [Vincent Emonet](https://vemonet.github.io/) on "Simplifying Nanopublications on the Web with nanopub-js: browser-compatible libraries and standard web components."
-- [Teodor Georgiev](https://pensoft.net/teodor_georgiev) on "What did my paper say? Nanopublications pilot at RIO Journal lets authors add short & precise scientific statements to publications from across the research process."
+- [Vincent Emonet](https://vemonet.github.io/) on "Simplifying Nanopublications on the Web with nanopub-js: browser-compatible libraries and standard web components"
+- [Teodor Georgiev](https://pensoft.net/teodor_georgiev) on "What did my paper say? Nanopublications pilot at RIO Journal lets authors add short & precise scientific statements to publications from across the research process"
 
 
 ## Nano Session #2
