@@ -1,6 +1,9 @@
 # Nano Sessions
 
-The Nano Sessions connect the people who are interested in nanopublications and who want to learn from each other about the related technologies. Every session has two talks, discussion and a news sharing part. [Knowledge Pixels](https://knowledgepixels.com/) hosts the first meetings, but we are happy to let others join and become hosts too. For more information about the Nano Sessions see [the description](https://docs.google.com/document/d/1-0aImR4bFHmay8j6bSFgIDi9sw01KXdmYw9szyhAWmY/edit#). Do you want to share some insights, a problem you can’t solve, or a use case you are working on? Send an [email](mailto:ph.vonessen@bluewin.ch) to get a slot in an upcoming session.
+The Nano Sessions connect the people who are interested in nanopublications and who want to learn from each other about the related technologies. Every session consists of two 10-minute talks, discussion, and a news sharing part. See the [description](https://docs.google.com/document/d/1-0aImR4bFHmay8j6bSFgIDi9sw01KXdmYw9szyhAWmY/edit#) for more information.
+
+
+[Knowledge Pixels](https://knowledgepixels.com/) hosts the first meetings, but we are happy to let others join and become hosts too. Do you want to share some insights, a problem you can’t solve, or a use case you are working on? Send an [email](mailto:ph.vonessen@bluewin.ch) to get a slot in an upcoming session.
 
 
 
@@ -20,7 +23,7 @@ _16 Mai 2023, 16:00 CEST_
 Speakers:
 
 - [Stefano Marchesin](http://www.dei.unipd.it/~marches1/) on "Annotated Data Doesn't Grow on Trees, but Nanopublications Do: Exploiting Nanopublications to Train Relation Extraction Models for Gene-Disease Associations."
-- (Second speaker tba)
+- [Barbara Magagna](https://partnersinfair.com/who-we-are/) on "The Value of Nanopubs for Representing FAIR Enabling Resources"
 
 ## Nano Session #3
 
