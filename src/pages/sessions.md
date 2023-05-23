@@ -14,7 +14,27 @@ Important Links:
 - We use these [notes](https://docs.google.com/document/d/1_vL-hxsHGcy85g7EIUdLesztXFofQ9QW4VdZG3K5J8g/edit#) during the sessions and for the record.
 - The meetings are open to everyone and invitations are sent out via our [mailing list](https://groups.google.com/g/nanopub-users/).
 
-Upcoming sessions: 16 Mai, 13 June, 11 July. Summer break afterwards.
+Upcoming sessions: 13 June, 11 July. Summer break afterwards.
+
+
+## Nano Session #6
+
+_11 July 2023, 16:00 CEST_
+
+Speakers:
+
+- [Erik van Winkle](https://www.linkedin.com/in/erik-van-winkle/) on "Decentralized Web Ecosystem-Wide Showcase: Applications Built on the Concept of Atomic Units of Knowledge"
+- (Second speaker tba)
+
+
+## Nano Session #5
+
+_13 June 2023, 16:00 CEST_
+
+Speakers:
+- [Tobias Kuhn](https://tkuhn.org) on "Scaling Nanopublications: Considerations on the Long and Short Run"
+- [Erik van Winkle](https://www.linkedin.com/in/erik-van-winkle/) on "Atomic Units of Knowledge in Research Objects: How FDOs Targeting Different Use Cases Can Collaborate"
+
 
 ## Nano Session #4
 
@@ -31,8 +51,8 @@ _18 April 2023, 16:00 CEST_
 
 Speakers:
 
-- [Vincent Emonet](https://vemonet.github.io/) on "Simplifying Nanopublications on the Web with nanopub-js: browser-compatible libraries and standard web components"
-- [Teodor Georgiev](https://pensoft.net/teodor_georgiev) on "What did my paper say? Nanopublications pilot at RIO Journal lets authors add short & precise scientific statements to publications from across the research process"
+- [Vincent Emonet](https://vemonet.github.io/) on "Simplifying Nanopublications on the Web with nanopub-js: Browser-Compatible Libraries and Standard Web Components"
+- [Teodor Georgiev](https://pensoft.net/teodor_georgiev) on "What Did my Paper Say? Nanopublications Pilot at RIO Journal Lets Authors Add Short & Precise Scientific Statements to Publications from Across the Research Process"
 
 
 ## Nano Session #2
@@ -51,4 +71,4 @@ _28 February 2023, 16:00 CET_
 Speakers:
 
 - [Jorrit Poelen](https://jhpoelen.nl) on "What Bee? On Distributed Publishing of Existing Digitized Specimen Records and Their Derived Knowledge"
-- [Tobias Kuhn](https://tkuhn.org) on "Moving from Bench to Dash: Demo of the new online mode of the nanopublishing tool Nanobench / Nanodash and an update on some of the new and planned features"
+- [Tobias Kuhn](https://tkuhn.org) on "Moving from Bench to Dash: Demo of the New Online Mode of the Nanopublishing Tool Nanobench / Nanodash and an Update on Some of the New and Planned Features"
