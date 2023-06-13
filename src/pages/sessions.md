@@ -12,9 +12,9 @@ Important Links:
 
 - All sessions are in this [Zoom channel](https://vu-live.zoom.us/j/97176002956?pwd=UHh5MGJWNHpEcFZKbTA0Kzcrc29TQT09). Anyone can join without registration. 
 - We use these [notes](https://docs.google.com/document/d/1_vL-hxsHGcy85g7EIUdLesztXFofQ9QW4VdZG3K5J8g/edit#) during the sessions and for the record.
-- The meetings are open to everyone and invitations are sent out via our [mailing list](https://groups.google.com/g/nanopub-users/).
+- The meetings are open to everyone and invitations are sent out by email. Subscribe to our [Google Group](https://groups.google.com/g/nanopub-users/) by hitting _Ask to join group_ and be notified.
 
-Upcoming sessions: 13 June, 11 July. Summer break afterwards.
+Upcoming sessions: 11 July, Summer Break, 19 Sept, 24 Oct, 14 Nov, 12 Dec.
 
 
 ## Nano Session #6
@@ -24,7 +24,7 @@ _11 July 2023, 16:00 CEST_
 Speakers:
 
 - [Erik van Winkle](https://www.linkedin.com/in/erik-van-winkle/) on "Decentralized Web Ecosystem-Wide Showcase: Applications Built on the Concept of Atomic Units of Knowledge"
-- (Second speaker tba)
+- [Ronen Tamari](https://ronentk.github.io/) on "Open Science Sensemaking: Adding Sensemaking Data to the Scientific Record for Making Sense of Science "
 
 
 ## Nano Session #5
