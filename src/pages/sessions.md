@@ -23,8 +23,8 @@ _11 July 2023, 16:00 CEST_
 
 Speakers:
 
-- [Erik van Winkle](https://www.linkedin.com/in/erik-van-winkle/) on "Decentralized Web Ecosystem-Wide Showcase: Applications Built on the Concept of Atomic Units of Knowledge"
 - [Ronen Tamari](https://ronentk.github.io/) on "Open Science Sensemaking: Adding Sensemaking Data to the Scientific Record for Making Sense of Science "
+-  [Erik van Winkle](https://www.linkedin.com/in/erik-van-winkle/) on "Nanosessions #5 follow-up: IPFS CID Overview"
 
 
 ## Nano Session #5
@@ -32,8 +32,9 @@ Speakers:
 _13 June 2023, 16:00 CEST_
 
 Speakers:
-- [Tobias Kuhn](https://tkuhn.org) on "Scaling Nanopublications: Considerations on the Long and Short Run"
 - [Erik van Winkle](https://www.linkedin.com/in/erik-van-winkle/) on "Atomic Units of Knowledge in Research Objects: How FDOs Targeting Different Use Cases Can Collaborate"
+- [Tobias Kuhn](https://tkuhn.org) on "Scaling Nanopublications: Considerations on the Long and Short Run"
+
 
 
 ## Nano Session #4
