@@ -14,7 +14,7 @@ Important Links:
 - We use these [notes](https://docs.google.com/document/d/1_vL-hxsHGcy85g7EIUdLesztXFofQ9QW4VdZG3K5J8g/edit#) during the sessions and for the record.
 - The meetings are open to everyone and invitations are sent out by email. Subscribe to our [Google Group](https://groups.google.com/g/nanopub-users/) by hitting _Ask to join group_ and be notified.
 
-Upcoming sessions: 11 July, Summer Break, 19 Sept, 24 Oct, 14 Nov, 12 Dec.
+Upcoming sessions: 24 Oct, 14 Nov, 12 Dec.
 
 
 ## Nano Session #6
