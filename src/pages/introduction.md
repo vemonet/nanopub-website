@@ -1,7 +1,7 @@
 # What is a Nanopublication?
 
-A nanopublication is the smallest unit of publishable information.
-This information can be about anything, for example a relation between a gene and a disease or an opinion.
+A nanopublication is a small knowledge graph snippet with metadata that is treated as an independent (scientific) publication.
+This information in a nanopublication can be about anything, for example a relation between a gene and a disease or an opinion.
 Nanopublications are expressed in a knowledge graph format that is formal and machine-interpretable.
 With nanopublications, it is possible to disseminate individual data as independent publications with or without an accompanying research article.
 Furthermore, because nanopublications can be attributed and cited, they provide incentives for researchers to make their data available in standard formats that drive data accessibility and interoperability.
