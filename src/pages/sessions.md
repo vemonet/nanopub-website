@@ -22,7 +22,7 @@ _14 November 2023, 16:00 CET_
 
 Speakers:
 
-- [Vincent Emonet](https://vemonet.github.io/) on ""The [Knowledge Collaboratory](https://collaboratory.semanticscience.org/annotate) – When [Nanodash](https://nanodash.knowledgepixels.com/) Is Not Enough"
+- [Vincent Emonet](https://vemonet.github.io/) on "The [Knowledge Collaboratory](https://collaboratory.semanticscience.org/annotate) – When [Nanodash](https://nanodash.knowledgepixels.com/) Is Not Enough"
 - [Tobias Kuhn](https://tkuhn.org) on "New Features of Nanopublications: Types and Labels"
 
 
