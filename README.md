@@ -75,6 +75,28 @@ docker-compose up
 
 The website is available at https://nanopub.net, it is automatically updated and published to GitHub Pages by a [GitHub Action](https://github.com/Nanopublication/nanopub-website/blob/main/actions) at each push to the `main` branch of this repository.
 
+## 🖼️ The nanopub logo
+
+The logo is defined as a vectorized SVG with 2 layers: logo and text.
+
+If you don't know which editor to use to edit the logo SVG, we recommend to use the open source [Inkscape](https://inkscape.org) software
+
+### Convert the SVG to PNG
+
+You can easily export the SVG logo to PNG from the terminal with inkscape:
+
+```bash
+inkscape nanopublication_logo_inkscape.svg -o nanopub_logo.png -h 512
+```
+
+To export to PNG without the text:
+
+```bash
+inkscape nanopublication_logo_inkscape.svg -o nanopub_logo_notext.png --export-id=Logo_Layer --export-id-only -h 512
+```
+
+> If you have installed Inkscape with Flatpak, then replace `inkscape` with `flatpak run org.inkscape.Inkscape` in the commands above.
+
 ## ✒️ Markdown tips
 
 ### Add an announcement top bar
