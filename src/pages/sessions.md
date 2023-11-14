@@ -14,7 +14,16 @@ Important Links:
 - We use these [notes](https://docs.google.com/document/d/1_vL-hxsHGcy85g7EIUdLesztXFofQ9QW4VdZG3K5J8g/edit#) during the sessions and for the record.
 - The meetings are open to everyone and invitations are sent out by email. Subscribe to our [Google Group](https://groups.google.com/g/nanopub-users/) by hitting _Ask to join group_ and be notified.
 
-Upcoming sessions: 14 Nov, 12 Dec.
+
+## Nano Session #8
+
+_12 December 2023, 16:00 CET_
+
+Speakers:
+
+- [Ronen Tamari](https://ronentk.github.io/) on "tba" (Demo)
+- [Tobias Kuhn](https://tkuhn.org) on "New Features of Nanopublications: Types and Labels" (Presentation)
+
 
 ## Nano Session #7
 
@@ -22,8 +31,9 @@ _14 November 2023, 16:00 CET_
 
 Speakers:
 
-- [Vincent Emonet](https://vemonet.github.io/) on "The [Knowledge Collaboratory](https://collaboratory.semanticscience.org/annotate) – When [Nanodash](https://nanodash.knowledgepixels.com/) Is Not Enough"
-- [Tobias Kuhn](https://tkuhn.org) on "New Features of Nanopublications: Types and Labels"
+- [Vincent Emonet](https://vemonet.github.io/) on "The [Knowledge Collaboratory](https://collaboratory.semanticscience.org/annotate) – When [Nanodash](https://nanodash.knowledgepixels.com/) Is Not Enough" (Demo)
+- All on "What you've always wanted to ask the nanopublication community, and actually you're not shy, but it was never the right moment, but now it is, so you do it." (Q&A)
+
 
 
 ## Nano Session #6
@@ -32,8 +42,8 @@ _11 July 2023, 16:00 CEST_
 
 Speakers:
 
-- [Ronen Tamari](https://ronentk.github.io/) on "Open Science Sensemaking: Adding Sensemaking Data to the Scientific Record for Making Sense of Science "
--  [Erik van Winkle](https://www.linkedin.com/in/erik-van-winkle/) on "Nanosessions #5 follow-up: IPFS CID Overview"
+- [Ronen Tamari](https://ronentk.github.io/) on "Open Science Sensemaking: Adding Sensemaking Data to the Scientific Record for Making Sense of Science" (Presentation)
+-  [Erik van Winkle](https://www.linkedin.com/in/erik-van-winkle/) on "Nanosessions #5 follow-up: IPFS CID Overview" (Presentation)
 
 
 ## Nano Session #5
@@ -41,8 +51,8 @@ Speakers:
 _13 June 2023, 16:00 CEST_
 
 Speakers:
-- [Erik van Winkle](https://www.linkedin.com/in/erik-van-winkle/) on "Atomic Units of Knowledge in Research Objects: How FDOs Targeting Different Use Cases Can Collaborate"
-- [Tobias Kuhn](https://tkuhn.org) on "Scaling Nanopublications: Considerations on the Long and Short Run"
+- [Erik van Winkle](https://www.linkedin.com/in/erik-van-winkle/) on "Atomic Units of Knowledge in Research Objects: How FDOs Targeting Different Use Cases Can Collaborate" (Demo and Presentation)
+- [Tobias Kuhn](https://tkuhn.org) on "Scaling Nanopublications: Considerations on the Long and Short Run" (Presentation)
 
 
 
@@ -52,8 +62,8 @@ _16 Mai 2023, 16:00 CEST_
 
 Speakers:
 
-- [Stefano Marchesin](http://www.dei.unipd.it/~marches1/) on "Annotated Data Doesn't Grow on Trees, but Nanopublications Do: Exploiting Nanopublications to Train Relation Extraction Models for Gene-Disease Associations"
-- [Barbara Magagna](https://partnersinfair.com/who-we-are/) on "The Value of Nanopubs for Representing FAIR Enabling Resources"
+- [Stefano Marchesin](http://www.dei.unipd.it/~marches1/) on "Annotated Data Doesn't Grow on Trees, but Nanopublications Do: Exploiting Nanopublications to Train Relation Extraction Models for Gene-Disease Associations" (Demo and Presentation)
+- [Barbara Magagna](https://partnersinfair.com/who-we-are/) on "The Value of Nanopubs for Representing FAIR Enabling Resources" (Demo and Presentation)
 
 ## Nano Session #3
 
@@ -61,8 +71,8 @@ _18 April 2023, 16:00 CEST_
 
 Speakers:
 
-- [Vincent Emonet](https://vemonet.github.io/) on "Simplifying Nanopublications on the Web with nanopub-js: Browser-Compatible Libraries and Standard Web Components"
-- [Teodor Georgiev](https://pensoft.net/teodor_georgiev) on "What Did my Paper Say? Nanopublications Pilot at RIO Journal Lets Authors Add Short & Precise Scientific Statements to Publications from Across the Research Process"
+- [Vincent Emonet](https://vemonet.github.io/) on "Simplifying Nanopublications on the Web with nanopub-js: Browser-Compatible Libraries and Standard Web Components" (Presentation)
+- [Teodor Georgiev](https://pensoft.net/teodor_georgiev) on "What Did my Paper Say? Nanopublications Pilot at RIO Journal Lets Authors Add Short & Precise Scientific Statements to Publications from Across the Research Process" (Demo and Presentation)
 
 
 ## Nano Session #2
@@ -71,8 +81,8 @@ _28 March 2023, 16:00 CEST_
 
 Speakers:
 
-- [Gianmaria Silvello](http://www.dei.unipd.it/~silvello/) on "Annotations of biomedical facts: Semi-Automatic Nanopubs and Knowledge Provenance"
-- [Jorrit Poelen](https://jhpoelen.nl) on "How Big is that Bee? On Distributed Publishing of Existing Digitized Specimen Records and Their Derived Knowledge"
+- [Gianmaria Silvello](http://www.dei.unipd.it/~silvello/) on "Annotations of biomedical facts: Semi-Automatic Nanopubs and Knowledge Provenance" (Presentation)
+- [Jorrit Poelen](https://jhpoelen.nl) on "How Big is that Bee? On Distributed Publishing of Existing Digitized Specimen Records and Their Derived Knowledge" (Demo and Presentation)
 
 ## Nano Session #1
 
@@ -80,5 +90,5 @@ _28 February 2023, 16:00 CET_
 
 Speakers:
 
-- [Jorrit Poelen](https://jhpoelen.nl) on "What Bee? On Distributed Publishing of Existing Digitized Specimen Records and Their Derived Knowledge"
+- [Jorrit Poelen](https://jhpoelen.nl) on "What Bee? On Distributed Publishing of Existing Digitized Specimen Records and Their Derived Knowledge" (Demo and Presentation)
 - [Tobias Kuhn](https://tkuhn.org) on "Moving from Bench to Dash: Demo of the New Online Mode of the Nanopublishing Tool Nanobench / Nanodash and an Update on Some of the New and Planned Features"
