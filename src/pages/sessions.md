@@ -21,7 +21,7 @@ _12 December 2023, 16:00 CET_
 
 Speakers:
 
-- [Ronen Tamari](https://ronentk.github.io/) on "tba" (Demo)
+- [Ronen Tamari](https://ronentk.github.io/) on "Researchers are Nanopublishing but Don’t Know it yet: Detecting Nanopublications in Social Media Using Language Models" (Demo)
 - [Tobias Kuhn](https://tkuhn.org) on "New Features of Nanopublications: Types and Labels" (Presentation)
 
 
@@ -32,7 +32,7 @@ _14 November 2023, 16:00 CET_
 Speakers:
 
 - [Vincent Emonet](https://vemonet.github.io/) on "The [Knowledge Collaboratory](https://collaboratory.semanticscience.org/annotate) – When [Nanodash](https://nanodash.knowledgepixels.com/) Is Not Enough" (Demo)
-- All on "What you've always wanted to ask the nanopublication community, and actually you're not shy, but it was never the right moment, but now it is, so you do it." (Q&A)
+- All on "What You've Always Wanted to ask the Nanopublication Community, and Actually You're not shy, but it was Never the Right Moment, but now it is, so you do it." (Q&A)
 
 
 
