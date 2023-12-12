@@ -14,6 +14,26 @@ Important Links:
 - We use these [notes](https://docs.google.com/document/d/1_vL-hxsHGcy85g7EIUdLesztXFofQ9QW4VdZG3K5J8g/edit#) during the sessions and for the record.
 - The meetings are open to everyone and invitations are sent out by email. Subscribe to our [Google Group](https://groups.google.com/g/nanopub-users/) by hitting _Ask to join group_ and be notified.
 
+Upcoming sessions: 12 Dec, 16 Jan, 27 Feb, 26 Mar, 16 Apr.
+
+## Nano Session #9
+
+_27 February 2024, time tbd_
+
+Speakers:
+
+- [Piotr Sowiński](https://github.com/Ostrzyciel) on "Living Literature Reviews with Nanopubs – RDF-STaX Case Study and the Future" (presentation)
+- The second slot is open 
+
+## Nano Session Special
+
+_16 January 2024, 16:00 CET for 2 hours_
+
+Speaker:
+
+- [Tobias Kuhn](https://tkuhn.org) on "title tbd" (Technical tutorial)
+- More information will follow
+
 
 ## Nano Session #8
 
@@ -21,7 +41,7 @@ _12 December 2023, 16:00 CET_
 
 Speakers:
 
-- [Ronen Tamari](https://ronentk.github.io/) on "Researchers are Nanopublishing but Don’t Know it yet: Detecting Nanopublications in Social Media Using Language Models" (Demo)
+- [Ronen Tamari](https://ronentk.github.io/) on "Researchers are Nanopublishing but Don’t Know it yet: Detecting Nanopublications in Social Media Using Language Models" (Demo and Presentation)
 - [Tobias Kuhn](https://tkuhn.org) on "New Features of Nanopublications: Types and Labels" (Presentation)
 
 
