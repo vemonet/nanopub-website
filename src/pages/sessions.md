@@ -18,7 +18,7 @@ Upcoming sessions: 16 Jan, 27 Feb, 26 Mar, 16 Apr.
 
 ## Nano Session #9
 
-_27 February 2024, time tbd_
+_27 February 2024, 16:00 CET
 
 Speakers:
 
