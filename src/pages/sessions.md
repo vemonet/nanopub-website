@@ -31,8 +31,9 @@ _16 January 2024, 16:00 CET for 2 hours_
 
 Speaker:
 
-- [Tobias Kuhn](https://tkuhn.org) on "title tbd" (Technical tutorial)
-- More information will follow
+- [Tobias Kuhn](https://tkuhn.org) on "Under the hood of nanopublications and their ecosystem: a technical hands-on introduction to nanopublications and the related services" (Technical tutorial)
+
+This special session requires registration. Just send an email to [Tobias](mailto:tobias@knowledgepixels.com) before 15 January if you'd like to participate.
 
 
 ## Nano Session #8
