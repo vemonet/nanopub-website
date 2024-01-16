@@ -16,7 +16,7 @@ Important Links:
 
 Upcoming sessions: 16 Jan, 27 Feb, 26 Mar, 16 Apr.
 
-## Nano Session #9
+## Nano Session #10
 
 _27 February 2024, 16:00 CET
 
@@ -25,7 +25,7 @@ Speakers:
 - [Piotr Sowiński](https://github.com/Ostrzyciel) on "Living Literature Reviews with Nanopubs – RDF-STaX Case Study and the Future" (presentation)
 - The second slot is open 
 
-## Nano Session ⭐️ Special ⭐️ 
+## Nano Session #9 (Special)
 
 _16 January 2024, 16:00 CET for 2 hours_
 
