@@ -22,8 +22,8 @@ _27 February 2024, 16:00 CET
 
 Speakers:
 
+- [Laura Menotti](https://www.dei.unipd.it/~menottilau/) on "Extending Nanopublications: Knowledge Provenance in Practice" (presentation)
 - [Piotr Sowiński](https://github.com/Ostrzyciel) on "Living Literature Reviews with Nanopubs – RDF-STaX Case Study and the Future" (presentation)
-- The second slot is open 
 
 ## Nano Session #9 (Special)
 
@@ -83,8 +83,9 @@ _16 Mai 2023, 16:00 CEST_
 
 Speakers:
 
-- [Stefano Marchesin](http://www.dei.unipd.it/~marches1/) on "Annotated Data Doesn't Grow on Trees, but Nanopublications Do: Exploiting Nanopublications to Train Relation Extraction Models for Gene-Disease Associations" (Demo and Presentation)
 - [Barbara Magagna](https://partnersinfair.com/who-we-are/) on "The Value of Nanopubs for Representing FAIR Enabling Resources" (Demo and Presentation)
+- [Stefano Marchesin](http://www.dei.unipd.it/~marches1/) on "Annotated Data Doesn't Grow on Trees, but Nanopublications Do: Exploiting Nanopublications to Train Relation Extraction Models for Gene-Disease Associations" (Demo and Presentation)
+
 
 ## Nano Session #3
 
