@@ -18,7 +18,7 @@ Upcoming sessions: 27 Feb, 26 Mar, 16 Apr.
 
 ## Nano Session #10
 
-_27 February 2024, 16:00 CET
+_27 February 2024, 16:00 CET_
 
 Speakers:
 
