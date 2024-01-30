@@ -22,8 +22,8 @@ _27 February 2024, 16:00 CET_
 
 Speakers:
 
-- [Laura Menotti](https://www.dei.unipd.it/~menottilau/) on "Extending Nanopublications: Knowledge Provenance in Practice" (presentation)
-- [Piotr Sowiński](https://github.com/Ostrzyciel) on "Living Literature Reviews with Nanopubs – RDF-STaX Case Study and the Future" (presentation)
+- [Laura Menotti](https://www.dei.unipd.it/~menottilau/) on "Extending Nanopublications: Knowledge Provenance in Practice" (Presentation)
+- [Piotr Sowiński](https://github.com/Ostrzyciel) on "Living Literature Reviews with Nanopubs – RDF-STaX Case Study and the Future" (Presentation)
 
 ## Nano Session #9 (Special)
 
