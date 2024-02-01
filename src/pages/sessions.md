@@ -16,6 +16,15 @@ Important Links:
 
 Upcoming sessions: 27 Feb, 26 Mar, 16 Apr.
 
+## Nano Session #11
+
+_26 March 2024, 17:00 CET (👉 Yes, one hour later than usual 👈)_
+
+Speakers:
+
+- [Matthew Akamatsu](https://www.biology.washington.edu/people/profile/matthew-akamatsu) on "Open-Sourcing Scientific Research with Discourse Graphs and Nanopublications: A Case Study from our Lab Graph" (Presentation)
+- Second slot: open
+
 ## Nano Session #10
 
 _27 February 2024, 16:00 CET_
@@ -31,7 +40,7 @@ _16 January 2024, 16:00 CET for 2 hours_
 
 Speaker:
 
-- [Tobias Kuhn](https://tkuhn.org) on "Under the hood of nanopublications and their ecosystem: a technical hands-on introduction to nanopublications and the related services" (Technical tutorial)
+- [Tobias Kuhn](https://tkuhn.org) on "Under the Hood of Nanopublications and their Ecosystem: A Technical Hands-on Introduction to Nanopublications and the Related Services" (Technical tutorial)
 
 This special session requires registration. Just send an email to [Tobias](mailto:tobias@knowledgepixels.com) before 15 January if you'd like to participate.
 
